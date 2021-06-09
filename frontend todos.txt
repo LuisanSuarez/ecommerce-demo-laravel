@@ -1,0 +1,1 @@
+paginator's closure doesn't reflect loading
